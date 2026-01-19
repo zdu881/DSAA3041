@@ -15,8 +15,14 @@ Space Complexity: O(?)
 """
 
 class Solution:
-    def solve(self):
-        """Your solution here"""
+    def solve(self, input_param):
+        """
+        Your solution here
+        Args:
+            input_param: Description of input parameter
+        Returns:
+            Description of return value
+        """
         pass
 
 def main():
