@@ -1,0 +1,27 @@
+# Compiled files
+*.class
+*.exe
+*.o
+*.out
+*.pyc
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+target/
+
+# Temporary files
+*.tmp
+*.temp
