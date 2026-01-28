@@ -21,3 +21,9 @@
 建议使用以下命名格式：
 - `problem_id_problem_name.ext`
 - 例如：`001_two_sum.py`, `102_binary_tree_level_order_traversal.cpp`
+
+## 已收录（当前目录）
+
+- 50: `050.py`, `050-re.py`
+- 162: `162.py`, `162-re.py`
+- 208: `208.py`
